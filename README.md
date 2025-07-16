@@ -78,7 +78,9 @@ docker-compose up -d
 ### 🧠 Not
 pgAdmin'e giriş yaptıktan sonra, “Add New Server” diyerek host kısmına db, kullanıcı adı ve şifre kısmına yukarıdaki bilgileri girerek bağlantı kurabilirsiniz.
 
+
 Tüm veriler pgdata adlı volume'da saklanır, container silinse bile veriler kaybolmaz.
+
 ---
 
 ## 📄 Lisans
