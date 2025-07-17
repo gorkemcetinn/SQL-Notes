@@ -109,6 +109,8 @@ FROM _table_name;_
   <img src="images/img_right_join.png" alt="Right Join" width="200">
   <img src="images/img_left_join.png" alt="Left Join" width="200">
 </div>
+<img width="861" height="158" alt="image" src="https://github.com/user-attachments/assets/bd36993c-7da2-43ba-9a94-527b144c8655" />
+
 
 #### INNER JOIN
 
