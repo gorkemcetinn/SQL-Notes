@@ -6,7 +6,7 @@ Bu repoda, PostgreSQL temelli SQL öğrenimim sırasında oluşturduğum temel S
 
 ## ✏️ İçerik Düzeyleri
 
-### 🔵 Temel Seviye (Bu repo içerisinde)
+### 🔵 Temel Seviye 
 - `SELECT`, `DISTINCT`, `WHERE`
 - Koşul operatörleri: `=`, `>`, `<`, `BETWEEN`, `IN`, `LIKE`, `NOT`
 - Sıralama: `ORDER BY`, `ASC`, `DESC`
@@ -17,12 +17,15 @@ Bu repoda, PostgreSQL temelli SQL öğrenimim sırasında oluşturduğum temel S
 - Sınırlama ve sayfalama: `LIMIT`, `OFFSET`
 - Fonksiyonlar: `MIN()`, `MAX()`, `COUNT()`, `SUM()`, `AVG()`
 
-### 🟡 Orta Seviye (Yakında eklenecek)
-- JOIN türleri: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`
-- `GROUP BY`, `HAVING`
-- Alt sorgular (Subqueries)
-- `CASE` ifadeleri
-- Veri türleri ve tablo yapıları
+### 🟡 Orta Seviye
+- JOIN türleri: `INNER JOIN`, `LEFT JOIN`
+- `GROUP BY`, `HAVING` (yakında)
+- Alt sorgular (Subqueries) (yakında)
+- CASE ifadeleri (yakında)
+- Temel çok tablolu sorgular
+- Basit veri analizleri: maaş ortalaması, departman eşleşmeleri
+- `Alias` kullanımı (AS)
+- `VIEW` kullanımı: current_dept_emp gibi
 
 ### 🔴 İleri Seviye (Planlama aşamasında)
 - View’lar, Index’ler
