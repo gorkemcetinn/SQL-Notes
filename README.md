@@ -6,7 +6,7 @@ Bu repoda, PostgreSQL temelli SQL öğrenimim sırasında oluşturduğum temel S
 
 ## ✏️ İçerik Düzeyleri
 
-### 🔵 Temel Seviye (Bu repo içerisinde)
+### 🔵 Temel Seviye 
 - `SELECT`, `DISTINCT`, `WHERE`
 - Koşul operatörleri: `=`, `>`, `<`, `BETWEEN`, `IN`, `LIKE`, `NOT`
 - Sıralama: `ORDER BY`, `ASC`, `DESC`
