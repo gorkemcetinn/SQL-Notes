@@ -104,7 +104,7 @@ FROM _table_name;_
 -  Bu tablolar arasında kolonları birleştirerek yeni tablolar yaratma işlemidir.
 
 <div style="display: flex; gap: 10px;">
-  <img src="img_inner_join.png" alt="Inner Join" width="200">
+  <img src="images/img_inner_join.png" alt="Inner Join" width="200">
   <img src="img_full_outer_join.png" alt="Full Outer Join" width="200">
   <img src="img_right_join.png" alt="Right Join" width="200">
   <img src="img_left_join.png" alt="Left Join" width="200">
